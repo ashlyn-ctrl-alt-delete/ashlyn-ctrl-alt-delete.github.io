@@ -1,0 +1,29 @@
+html body {
+	padding:0px;
+	margin:0px;
+	overflow-x: hidden;
+	height:100%;
+}
+h1{
+	font-size:20px;
+  font-family: 'PT Sans Caption', sans-serif;
+  text-decoration: none;
+}
+.navigation {
+  text-align: center;}
+  .navigation li {
+  display: inline-block;
+  margin: 15px;
+ color: #450986d9;
+}
+nav{
+
+z-index: 1;
+left: 0;
+right: 0;
+font-size: 25px;
+text-decoration: bolder;
+.Italylink { 
+	margin-left:300px;
+  margin-top:100px;
+   }
